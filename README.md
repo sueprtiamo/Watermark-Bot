@@ -1,19 +1,19 @@
 # Watermark-Bot
 A Telegram Video Watermark Adder Bot by [@AbirHasan2005](https://github.com/AbirHasan2005)
 
-## Features:
-- Save Custom Watermark Image.
-- Auto Resize Watermark According to Video quality.
-- Easy Apply saved watermark to video.
-- Progress of all tasks.
-- Can Choose [FFMPEG](https://www.ffmpeg.org/) Process Preset.
-- Can Cancel Process. *(Beta)*
-- Any Channel or Group Force Sub.
-- Logs Process in any channel.
-- Broadcast Feature.
-- Can Save Watermark Position for users.
-- Can Save Watermark Size for users.
-- Can Upload to [Streamtape](https://streamtape.com/) if File Size is more than 2GB.
+＃＃ 特征：
+- 保存自定义水印图像。
+- 根据视频质量自动调整水印大小。
+- 轻松将保存的水印应用到视频。
+- 所有任务的进展。
+- 可以选择 [FFMPEG](https://www.ffmpeg.org/) 处理预设。
+- 可以取消进程。 *（测试版）*
+- 任何频道或组 Force Sub。
+- 在任何渠道中记录进程。
+- 广播功能。
+- 可以为用户保存水印位置。
+- 可以为用户保存水印大小。
+- 如果文件大小超过 2GB，可以上传到 [Streamtape](https://streamtape.com/)。
 
 ### Demo Bot:
 <a href="https://t.me/VideoWatermark_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
